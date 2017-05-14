@@ -1,21 +1,15 @@
 .first{
 	background: red;
-	margin: 0px 1750px 0px 0px;
+	margin: 50px 1750px 0px 10px;
+	padding: 50px 0px 0px 0px;
 }
 .second{
-	background: blue;
-	margin: 0px 1400px 0px 0px;
-	padding: 0px 0px 0px 0px;
+	background: orange;
+	margin: 25px 1400px 0px 10px;
+	padding: 50px 0px 0px 0px;
 }
 .third{
-	background: yellow;
-	margin: 0px 1400px 0px 0px;
-	padding: 0px 0px 0px 0px;
-}
-.horizon_line{
-	margin: 0px 1400px 0px 0px;
-}
-.text{
-	font-size: 40px;
-	font-family: 'Times New Roman', Times, serif;
+	background: blue;
+	margin: 25px 1400px 0px 10px;
+	padding: 50px 0px 0px 0px;
 }
